@@ -1,0 +1,3 @@
+[submodule "hello-submodule"]
+	path = hello-submodule
+	url = https://github.com/harsha5085/Simple-registration-form.git
